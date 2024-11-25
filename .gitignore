@@ -3,4 +3,4 @@ progdat/
 .vscode/
 notes.ipynb
 notes.txt
-venv/
+.venv
